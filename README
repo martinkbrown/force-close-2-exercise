@@ -1,0 +1,4 @@
+This app should crash when you try to submit the form. You need to
+
+1. Find out why it crashes and fix it
+2. After you fix it, change it to handle events by implementing onClickListener instead
